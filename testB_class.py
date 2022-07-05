@@ -10,3 +10,4 @@ class classB:
 
     if __name__ == '__main__':
         val = newFunc()
+        print(val)
