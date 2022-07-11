@@ -9,5 +9,3 @@ a.selfFunc()
 
 b = classB('Instance Attribute from ClassB, 2022-07-05')
 b.selfFunc()
-
-newFunc()
