@@ -1,6 +1,8 @@
 class classA:
     def __init__(self):
         self.xyz = 'Instance Attribute from ClassA'
+    def classFunc():
+        print('Class Method from ClassA')
 
     val = 'Class Attribute from testA'
 
